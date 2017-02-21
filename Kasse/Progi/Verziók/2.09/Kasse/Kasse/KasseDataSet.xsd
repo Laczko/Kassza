@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="KasseDataSet" targetNamespace="http://tempuri.org/KasseDataSet.xsd" xmlns:mstns="http://tempuri.org/KasseDataSet.xsd" xmlns="http://tempuri.org/KasseDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="KasseConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="KasseConnectionString (Settings)" PropertyReference="ApplicationSettings.Kasse.Properties.Settings.GlobalReference.Default.KasseConnectionString" Provider="System.Data.OleDb" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="Termek_regTableAdapter" GeneratorDataComponentClassName="Termek_regTableAdapter" Name="Termek_reg" UserDataComponentName="Termek_regTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="KasseConnectionString (Settings)" DbObjectName="Termek_reg" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT Vonalkod, Gyorskód, Nev, Szallito, Kategoria, Mennyiseg_ertek, Mennyisegi_egyseg, Eladasi_ar, Netto_ar, Akcios_ar, Datum, Felnot_tartalmu, Áfa FROM Termek_reg</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Vonalkod" DataSetColumn="Vonalkod" />
+              <Mapping SourceColumn="Gyorskód" DataSetColumn="Gyorskód" />
+              <Mapping SourceColumn="Nev" DataSetColumn="Nev" />
+              <Mapping SourceColumn="Szallito" DataSetColumn="Szallito" />
+              <Mapping SourceColumn="Kategoria" DataSetColumn="Kategoria" />
+              <Mapping SourceColumn="Mennyiseg_ertek" DataSetColumn="Mennyiseg_ertek" />
+              <Mapping SourceColumn="Mennyisegi_egyseg" DataSetColumn="Mennyisegi_egyseg" />
+              <Mapping SourceColumn="Eladasi_ar" DataSetColumn="Eladasi_ar" />
+              <Mapping SourceColumn="Netto_ar" DataSetColumn="Netto_ar" />
+              <Mapping SourceColumn="Akcios_ar" DataSetColumn="Akcios_ar" />
+              <Mapping SourceColumn="Datum" DataSetColumn="Datum" />
+              <Mapping SourceColumn="Felnot_tartalmu" DataSetColumn="Felnot_tartalmu" />
+              <Mapping SourceColumn="Áfa" DataSetColumn="Áfa" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="KasseDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="KasseDataSet" msprop:Generator_UserDSName="KasseDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Termek_reg" msprop:Generator_TableClassName="Termek_regDataTable" msprop:Generator_TableVarName="tableTermek_reg" msprop:Generator_TablePropName="Termek_reg" msprop:Generator_RowDeletingName="Termek_regRowDeleting" msprop:Generator_RowChangingName="Termek_regRowChanging" msprop:Generator_RowEvHandlerName="Termek_regRowChangeEventHandler" msprop:Generator_RowDeletedName="Termek_regRowDeleted" msprop:Generator_UserTableName="Termek_reg" msprop:Generator_RowChangedName="Termek_regRowChanged" msprop:Generator_RowEvArgName="Termek_regRowChangeEvent" msprop:Generator_RowClassName="Termek_regRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Vonalkod" msprop:Generator_ColumnVarNameInTable="columnVonalkod" msprop:Generator_ColumnPropNameInRow="Vonalkod" msprop:Generator_ColumnPropNameInTable="VonalkodColumn" msprop:Generator_UserColumnName="Vonalkod" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Gyorskód" msprop:Generator_ColumnVarNameInTable="columnGyorskód" msprop:Generator_ColumnPropNameInRow="Gyorskód" msprop:Generator_ColumnPropNameInTable="GyorskódColumn" msprop:Generator_UserColumnName="Gyorskód" type="xs:int" minOccurs="0" />
+              <xs:element name="Nev" msprop:Generator_ColumnVarNameInTable="columnNev" msprop:Generator_ColumnPropNameInRow="Nev" msprop:Generator_ColumnPropNameInTable="NevColumn" msprop:Generator_UserColumnName="Nev" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Szallito" msprop:Generator_ColumnVarNameInTable="columnSzallito" msprop:Generator_ColumnPropNameInRow="Szallito" msprop:Generator_ColumnPropNameInTable="SzallitoColumn" msprop:Generator_UserColumnName="Szallito" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Kategoria" msprop:Generator_ColumnVarNameInTable="columnKategoria" msprop:Generator_ColumnPropNameInRow="Kategoria" msprop:Generator_ColumnPropNameInTable="KategoriaColumn" msprop:Generator_UserColumnName="Kategoria" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Mennyiseg_ertek" msprop:Generator_ColumnVarNameInTable="columnMennyiseg_ertek" msprop:Generator_ColumnPropNameInRow="Mennyiseg_ertek" msprop:Generator_ColumnPropNameInTable="Mennyiseg_ertekColumn" msprop:Generator_UserColumnName="Mennyiseg_ertek" type="xs:int" minOccurs="0" />
+              <xs:element name="Mennyisegi_egyseg" msprop:Generator_ColumnVarNameInTable="columnMennyisegi_egyseg" msprop:Generator_ColumnPropNameInRow="Mennyisegi_egyseg" msprop:Generator_ColumnPropNameInTable="Mennyisegi_egysegColumn" msprop:Generator_UserColumnName="Mennyisegi_egyseg" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Eladasi_ar" msprop:Generator_ColumnVarNameInTable="columnEladasi_ar" msprop:Generator_ColumnPropNameInRow="Eladasi_ar" msprop:Generator_ColumnPropNameInTable="Eladasi_arColumn" msprop:Generator_UserColumnName="Eladasi_ar" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Netto_ar" msprop:Generator_ColumnVarNameInTable="columnNetto_ar" msprop:Generator_ColumnPropNameInRow="Netto_ar" msprop:Generator_ColumnPropNameInTable="Netto_arColumn" msprop:Generator_UserColumnName="Netto_ar" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Akcios_ar" msprop:Generator_ColumnVarNameInTable="columnAkcios_ar" msprop:Generator_ColumnPropNameInRow="Akcios_ar" msprop:Generator_ColumnPropNameInTable="Akcios_arColumn" msprop:Generator_UserColumnName="Akcios_ar" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Datum" msprop:Generator_ColumnVarNameInTable="columnDatum" msprop:Generator_ColumnPropNameInRow="Datum" msprop:Generator_ColumnPropNameInTable="DatumColumn" msprop:Generator_UserColumnName="Datum" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Felnot_tartalmu" msprop:Generator_ColumnVarNameInTable="columnFelnot_tartalmu" msprop:Generator_ColumnPropNameInRow="Felnot_tartalmu" msprop:Generator_ColumnPropNameInTable="Felnot_tartalmuColumn" msprop:Generator_UserColumnName="Felnot_tartalmu" type="xs:boolean" minOccurs="0" />
+              <xs:element name="Áfa" msprop:Generator_ColumnVarNameInTable="columnÁfa" msprop:Generator_ColumnPropNameInRow="Áfa" msprop:Generator_ColumnPropNameInTable="ÁfaColumn" msprop:Generator_UserColumnName="Áfa" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

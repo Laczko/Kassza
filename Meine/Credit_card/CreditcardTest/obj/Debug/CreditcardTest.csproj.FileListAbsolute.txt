@@ -1,0 +1,7 @@
+D:\Zoltán\Visual studio 2013\Credit_card\CreditcardTest\bin\Debug\CreditcardTest.dll
+D:\Zoltán\Visual studio 2013\Credit_card\CreditcardTest\bin\Debug\CreditcardTest.pdb
+D:\Zoltán\Visual studio 2013\Credit_card\CreditcardTest\bin\Debug\Credit_card.exe
+D:\Zoltán\Visual studio 2013\Credit_card\CreditcardTest\bin\Debug\Credit_card.pdb
+D:\Zoltán\Visual studio 2013\Credit_card\CreditcardTest\obj\Debug\CreditcardTest.csprojResolveAssemblyReference.cache
+D:\Zoltán\Visual studio 2013\Credit_card\CreditcardTest\obj\Debug\CreditcardTest.dll
+D:\Zoltán\Visual studio 2013\Credit_card\CreditcardTest\obj\Debug\CreditcardTest.pdb

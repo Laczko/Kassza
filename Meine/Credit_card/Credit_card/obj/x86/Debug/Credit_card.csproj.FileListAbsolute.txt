@@ -1,0 +1,17 @@
+D:\Zoltán\visual studio 2010\Credit_card\Credit_card\bin\Debug\Credit_card.exe
+D:\Zoltán\visual studio 2010\Credit_card\Credit_card\bin\Debug\Credit_card.pdb
+D:\Zoltán\visual studio 2010\Credit_card\Credit_card\obj\x86\Debug\Credit_card.Properties.Resources.resources
+D:\Zoltán\visual studio 2010\Credit_card\Credit_card\obj\x86\Debug\Credit_card.csproj.GenerateResource.Cache
+D:\Zoltán\visual studio 2010\Credit_card\Credit_card\obj\x86\Debug\Credit_card.exe
+D:\Zoltán\visual studio 2010\Credit_card\Credit_card\obj\x86\Debug\Credit_card.pdb
+D:\Zoltán\visual studio 2010\Credit_card\Credit_card\obj\x86\Debug\Credit_card.Form1.resources
+f:\Zoltán\visual studio 2010\Credit_card\Credit_card\obj\x86\Debug\Credit_card.exe
+f:\Zoltán\visual studio 2010\Credit_card\Credit_card\obj\x86\Debug\Credit_card.pdb
+d:\Zoltán\Visual studio 2013\Credit_card\Credit_card\obj\x86\Debug\Credit_card.exe
+d:\Zoltán\Visual studio 2013\Credit_card\Credit_card\obj\x86\Debug\Credit_card.pdb
+d:\Zoltán\Visual studio 2013\Credit_card\Credit_card\bin\Debug\Credit_card.exe
+d:\Zoltán\Visual studio 2013\Credit_card\Credit_card\bin\Debug\Credit_card.pdb
+d:\Zoltán\Visual studio 2013\Credit_card\Credit_card\obj\x86\Debug\Credit_card.csprojResolveAssemblyReference.cache
+d:\Zoltán\Visual studio 2013\Credit_card\Credit_card\obj\x86\Debug\Credit_card.Form1.resources
+d:\Zoltán\Visual studio 2013\Credit_card\Credit_card\obj\x86\Debug\Credit_card.Properties.Resources.resources
+d:\Zoltán\Visual studio 2013\Credit_card\Credit_card\obj\x86\Debug\Credit_card.csproj.GenerateResource.Cache
