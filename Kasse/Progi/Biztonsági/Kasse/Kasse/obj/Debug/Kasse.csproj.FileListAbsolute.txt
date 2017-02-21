@@ -1,0 +1,58 @@
+D:\Zoltán\Visual studio 2013\Kasse\Kasse\bin\Debug\Kasse.exe.config
+d:\Zoltán\Visual studio 2013\Kasse\Kasse\bin\Debug\Kasse.exe
+d:\Zoltán\Visual studio 2013\Kasse\Kasse\bin\Debug\Kasse.pdb
+d:\Zoltán\Visual studio 2013\Kasse\Kasse\obj\Debug\Kasse.csprojResolveAssemblyReference.cache
+d:\Zoltán\Visual studio 2013\Kasse\Kasse\obj\Debug\Kasse.Cash.resources
+d:\Zoltán\Visual studio 2013\Kasse\Kasse\obj\Debug\Kasse.Login.resources
+d:\Zoltán\Visual studio 2013\Kasse\Kasse\obj\Debug\Kasse.Employe.resources
+d:\Zoltán\Visual studio 2013\Kasse\Kasse\obj\Debug\Kasse.Properties.Resources.resources
+d:\Zoltán\Visual studio 2013\Kasse\Kasse\obj\Debug\Kasse.csproj.GenerateResource.Cache
+d:\Zoltán\Visual studio 2013\Kasse\Kasse\obj\Debug\Kasse.exe
+d:\Zoltán\Visual studio 2013\Kasse\Kasse\obj\Debug\Kasse.pdb
+d:\Zoltán\Kasse\Kasse\bin\Debug\Kasse.exe.config
+d:\Zoltán\Kasse\Kasse\obj\Debug\Kasse.exe
+d:\Zoltán\Kasse\Kasse\obj\Debug\Kasse.pdb
+d:\Zoltán\Kasse\Kasse\bin\Debug\Kasse.exe
+d:\Zoltán\Kasse\Kasse\bin\Debug\Kasse.pdb
+d:\Zoltán\Kasse\Kasse\obj\Debug\Kasse.csprojResolveAssemblyReference.cache
+d:\Zoltán\Kasse\Kasse\obj\Debug\Kasse.Cash.resources
+d:\Zoltán\Kasse\Kasse\obj\Debug\Kasse.Login.resources
+d:\Zoltán\Kasse\Kasse\obj\Debug\Kasse.Employe.resources
+d:\Zoltán\Kasse\Kasse\obj\Debug\Kasse.Product_reg.resources
+d:\Zoltán\Kasse\Kasse\obj\Debug\Kasse.Properties.Resources.resources
+d:\Zoltán\Kasse\Kasse\obj\Debug\Kasse.csproj.GenerateResource.Cache
+F:\Zoltán\Emachines E528 laptop\Zoltán\Kasse\Kasse\bin\Debug\Kasse.exe.config
+F:\Zoltán\Emachines E528 laptop\Zoltán\Kasse\Kasse\obj\Debug\Kasse.exe
+F:\Zoltán\Emachines E528 laptop\Zoltán\Kasse\Kasse\obj\Debug\Kasse.pdb
+F:\Zoltán\Emachines E528 laptop\Zoltán\Kasse\Kasse\bin\Debug\Kasse.exe
+F:\Zoltán\Emachines E528 laptop\Zoltán\Kasse\Kasse\bin\Debug\Kasse.pdb
+F:\Zoltán\Emachines E528 laptop\Zoltán\Kasse\Kasse\obj\Debug\Kasse.csprojResolveAssemblyReference.cache
+F:\Zoltán\Emachines E528 laptop\Zoltán\Kasse\Kasse\obj\Debug\Kasse.Cash.resources
+F:\Zoltán\Emachines E528 laptop\Zoltán\Kasse\Kasse\obj\Debug\Kasse.Login.resources
+F:\Zoltán\Emachines E528 laptop\Zoltán\Kasse\Kasse\obj\Debug\Kasse.Employe.resources
+F:\Zoltán\Emachines E528 laptop\Zoltán\Kasse\Kasse\obj\Debug\Kasse.Product_reg.resources
+F:\Zoltán\Emachines E528 laptop\Zoltán\Kasse\Kasse\obj\Debug\Kasse.Properties.Resources.resources
+F:\Zoltán\Emachines E528 laptop\Zoltán\Kasse\Kasse\obj\Debug\Kasse.csproj.GenerateResource.Cache
+F:\Zoltán\Emachines E528 laptop\Zoltán\Kasse\Kasse\bin\Debug\Kasse.mdf
+F:\Zoltán\Emachines E528 laptop\Zoltán\Kasse\Kasse\bin\Debug\Kasse_log.ldf
+F:\Zoltán\Emachines E528 laptop\Zoltán\Kasse\Kasse\obj\Debug\Kasse.Account.resources
+F:\Zoltán\Emachines E528 laptop\Zoltán\Kasse\Kasse\obj\Debug\Kasse.Account_reg.resources
+D:\GitHub\Kassza\Progi\Kasse\Kasse\bin\Debug\Kasse.exe.config
+D:\GitHub\Kassza\Progi\Kasse\Kasse\obj\Debug\Kasse.exe
+D:\GitHub\Kassza\Progi\Kasse\Kasse\obj\Debug\Kasse.pdb
+D:\GitHub\Kassza\Progi\Kasse\Kasse\bin\Debug\Kasse.mdf
+D:\GitHub\Kassza\Progi\Kasse\Kasse\bin\Debug\Kasse_log.ldf
+D:\GitHub\Kassza\Progi\Kasse\Kasse\bin\Debug\Kasse.exe
+D:\GitHub\Kassza\Progi\Kasse\Kasse\bin\Debug\Kasse.pdb
+D:\GitHub\Kassza\Progi\Kasse\Kasse\obj\Debug\Kasse.csprojResolveAssemblyReference.cache
+D:\GitHub\Kassza\Progi\Kasse\Kasse\obj\Debug\Kasse.Account.resources
+D:\GitHub\Kassza\Progi\Kasse\Kasse\obj\Debug\Kasse.Account_reg.resources
+D:\GitHub\Kassza\Progi\Kasse\Kasse\obj\Debug\Kasse.Cash.resources
+D:\GitHub\Kassza\Progi\Kasse\Kasse\obj\Debug\Kasse.Login.resources
+D:\GitHub\Kassza\Progi\Kasse\Kasse\obj\Debug\Kasse.Employe.resources
+D:\GitHub\Kassza\Progi\Kasse\Kasse\obj\Debug\Kasse.Product_reg.resources
+D:\GitHub\Kassza\Progi\Kasse\Kasse\obj\Debug\Kasse.Properties.Resources.resources
+D:\GitHub\Kassza\Progi\Kasse\Kasse\obj\Debug\Kasse.csproj.GenerateResource.Cache
+d:\Zoltán\Visual studio 2013\RFT\Progi\Kasse\Kasse\bin\Debug\Kasse.exe.config
+d:\Zoltán\Visual studio 2013\RFT\Progi\Kasse\Kasse\obj\Debug\Kasse.exe
+d:\Zoltán\Visual studio 2013\RFT\Progi\Kasse\Kasse\obj\Debug\Kasse.pdb
