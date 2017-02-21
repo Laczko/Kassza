@@ -1,2 +1,0 @@
-Az adatbázison belül feltesszük az url-eket, Indexelni tudjuk. 
-Code Igniter (PHP keretrendszer)
