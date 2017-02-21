@@ -1,9 +1,0 @@
-e:\1.20\Kasse\UnitTestProject1\bin\Debug\UnitTestProject1.dll
-e:\1.20\Kasse\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
-e:\1.20\Kasse\UnitTestProject1\bin\Debug\Kasse.exe
-e:\1.20\Kasse\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-e:\1.20\Kasse\UnitTestProject1\bin\Debug\Kasse.pdb
-e:\1.20\Kasse\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
-e:\1.20\Kasse\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
-e:\1.20\Kasse\UnitTestProject1\obj\Debug\UnitTestProject1.dll
-e:\1.20\Kasse\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
